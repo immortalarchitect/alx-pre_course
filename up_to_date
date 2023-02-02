@@ -1,0 +1,7 @@
+echo"git pull" > up_to_date
+Push to the origin git status
+to check the status of your work git add.
+git status
+to check the status of your work if the previous works have been added
+git commit -m " how to be up to date in git
+git push
